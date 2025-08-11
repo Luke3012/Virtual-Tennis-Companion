@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>3041353f9d15f854ebc1b890716e936b</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.2937273+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba1f99a32a6331d408d3f5ffbb3cd252</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.3228483+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8da135de93f45914da10ad640e4cfe2c</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.3422117+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94c8074730cdcd641b672aa8d01cdada</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.3619202+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b42cfc0ba2a38a44fb0ae34545004d5f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.3839573+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48b4f9418db14664797e1e15fc04b14c</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-09-17T17:16:02.4002795+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>436d05bb233559b43b374d9cf0918f61</guid>
+    <fileName>Assets/Scripts/GestioneSensori.cs</fileName>
+    <timeStamp>2024-09-14T06:57:39.6599835+02:00</timeStamp>
+    <typeFullName>
+      <string>GestioneSensori</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb69d43c76f1db64b86334a5d71aa0a8</guid>
+    <fileName>Assets/Scripts/Tutorial.cs</fileName>
+    <timeStamp>2024-09-13T01:18:06.264164+02:00</timeStamp>
+    <typeFullName>
+      <string>Tutorial</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43d778ce142c0f4439872f9dc51253fc</guid>
+    <fileName>Assets/Fergicide/Dfaults/Scripts/DfaultsConfig.cs</fileName>
+    <timeStamp>2020-02-15T13:37:53+01:00</timeStamp>
+    <typeFullName>
+      <string>Fergicide.DfaultsConfig</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>527b51243f9df3a4cb0817ca57318781</guid>
+    <fileName>Assets/Fergicide/Dfaults/Scripts/DfaultsController.cs</fileName>
+    <timeStamp>2020-02-15T14:04:34+01:00</timeStamp>
+    <typeFullName>
+      <string>Fergicide.DfaultsController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a93f40f02b298ee4ba18301bdf8e081a</guid>
+    <fileName>Assets/I2/Text Animation/Extensions/TextAnimationNGUI.cs</fileName>
+    <timeStamp>2020-11-09T02:46:10+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7cef6345dee01f499940cf8e4a97628</guid>
+    <fileName>Assets/I2/Text Animation/Extensions/TextAnimationTMPro.cs</fileName>
+    <timeStamp>2024-09-11T16:05:43.425+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7bf64d6a7e407fb4a9727d2853cac537</guid>
+    <fileName>Assets/I2/Text Animation/Extensions/TextAnimationUGUI.cs</fileName>
+    <timeStamp>2020-11-09T02:46:07+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc8f62c7841dde2499d8adf430969ea0</guid>
+    <fileName>Assets/I2/Text Animation/Extensions/TextAnimationUGUIpre53.cs</fileName>
+    <timeStamp>2020-11-09T02:46:13+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>489c1f0a82944194fa00b72a5278fc02</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/TextAnimationsManager.cs</fileName>
+    <timeStamp>2020-11-09T02:46:02+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae492a6b32c94974897ca8464a5d024f</guid>
+    <fileName>Assets/Fergicide/Dfaults/Examples/Scripts/BitArray32.cs</fileName>
+    <timeStamp>2020-02-10T17:11:40+01:00</timeStamp>
+    <typeFullName>
+      <string>BitArray32</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e507c1492fd0d144897889840bd19389</guid>
+    <fileName>Assets/Fergicide/Dfaults/Examples/Scripts/ExtendedFlycam.cs</fileName>
+    <timeStamp>2020-02-11T15:18:47+01:00</timeStamp>
+    <typeFullName>
+      <string>ExtendedFlycam</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c30986fcef09c4148ab4a52373fb86a9</guid>
+    <fileName>Assets/Fergicide/Dfaults/Examples/Scripts/FlagDic.cs</fileName>
+    <timeStamp>2020-02-15T10:17:11+01:00</timeStamp>
+    <typeFullName>
+      <string>Fergicide.FlagDic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d07dd5fb17613ad47b2eb568b8018149</guid>
+    <fileName>Assets/Fergicide/Dfaults/Examples/Scripts/Spawner.cs</fileName>
+    <timeStamp>2020-02-11T15:15:20+01:00</timeStamp>
+    <typeFullName>
+      <string>Fergicide.Spawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c11ae9a2e91b4647aa2a317003e93fa</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/TextAnimation_Inspector.cs</fileName>
+    <timeStamp>2020-11-09T02:45:59+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11acb552f5bae9346b77c6153d6eaf8f</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/TextAnimation_Inspector_Animations.cs</fileName>
+    <timeStamp>2020-11-09T02:45:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df33c1000ac895241a433812e40a2091</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Tools/EditorTools.cs</fileName>
+    <timeStamp>2020-11-09T02:46:14+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1396d5ae79c340642bc9721374a0249d</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Tools/SE_Extension_Installer.cs</fileName>
+    <timeStamp>2020-11-09T02:45:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>887e5df4767297548bb25583d076d66d</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Tools/SE_InspectorTools.cs</fileName>
+    <timeStamp>2020-11-09T02:46:07+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df95f9659e463e048a71fb8844f96d5f</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Tools/TextAnimationUpgradeManager.cs</fileName>
+    <timeStamp>2020-11-09T02:46:14+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c423d3fb3498a7648ad6b6625200b9fd</guid>
+    <fileName>Assets/I2/Text Animation/Examples/Scripts/NPC_Chat.cs</fileName>
+    <timeStamp>2020-11-09T02:46:11+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53d6ac483b6f76f4abd84cfe8ab8730a</guid>
+    <fileName>Assets/I2/Text Animation/Examples/Scripts/PlayAnimations.cs</fileName>
+    <timeStamp>2020-11-09T02:46:04+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbacbefad521b934888382ee278ee10a</guid>
+    <fileName>Assets/I2/Text Animation/Examples/Scripts/TimedEffect.cs</fileName>
+    <timeStamp>2020-11-09T02:46:12+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d75b33f019e6344cae358c6d5e12f32</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Utils/ArrayBuffer.cs</fileName>
+    <timeStamp>2020-11-09T02:46:03+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>920aeed7012ee7e479c1ee67ea45735d</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Utils/DRandom.cs</fileName>
+    <timeStamp>2020-11-09T02:46:08+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7350bcb5271bfde49a42841a8987c707</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Utils/MathUtils.cs</fileName>
+    <timeStamp>2020-11-09T02:46:05+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4501fa2564684814693bf01c8eead2d9</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Utils/VertexTools.cs</fileName>
+    <timeStamp>2020-11-09T02:46:02+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b91132341bbeae4b91b9374ab5e8a2f</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/TextAnimation.cs</fileName>
+    <timeStamp>2020-11-09T02:45:58+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e28d91180037d694daee31b72c68f655</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/TextAnimation_Animation.cs</fileName>
+    <timeStamp>2020-11-09T02:46:15+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>446c33ab788eda8488fdb1e3d12f6c3a</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/Animation/SE_AnimationPreset_Inspector.cs</fileName>
+    <timeStamp>2020-11-09T02:46:02+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9fc00dea26bd1814f883fe90b130fccc</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/Animation/SE_Animation_Inspector.cs</fileName>
+    <timeStamp>2020-11-09T02:46:10+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9faa86e681eb62d4dbcfa3ac6a34286d</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/Animation/SE_Animation_Inspector_Sequence.cs</fileName>
+    <timeStamp>2020-11-09T02:46:09+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3dcca03938da6dd4db67401a49216e0b</guid>
+    <fileName>Assets/I2/Text Animation/Editor/Inspectors/Animation/SE_Animation_Inspector_Sequences.cs</fileName>
+    <timeStamp>2020-11-09T02:46:01+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72b9007ec56f159408305a7233d7c5cf</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SE_Animation.cs</fileName>
+    <timeStamp>2020-11-09T02:46:05+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ba4c2e644fbce74d9867bb89e00d7b3</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SE_AnimationPreset.cs</fileName>
+    <timeStamp>2020-11-09T02:46:09+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a17cd91eebab26e4691fe33ab6afe429</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SE_AnimationSlot.cs</fileName>
+    <timeStamp>2020-11-09T02:46:10+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c20c11700dff1c4c9d26e2cefd2e960</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SE_AnimSequence.cs</fileName>
+    <timeStamp>2020-11-09T02:46:01+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0fc16a11286b8eb43bce912e37a98661</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Alpha.cs</fileName>
+    <timeStamp>2020-11-09T02:45:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9190b1866182a84f80de77939ff2ab8</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Color.cs</fileName>
+    <timeStamp>2020-11-09T02:46:12+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>232a660535b955544b2d6982a998073c</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Float.cs</fileName>
+    <timeStamp>2020-11-09T02:45:58+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3f25f1b83360b444a2492eadfe95227</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Position.cs</fileName>
+    <timeStamp>2020-11-09T02:46:17+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01336a1cfa36b27419ee70fca556d068</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Rotation.cs</fileName>
+    <timeStamp>2020-11-09T02:45:55+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>20a8b6b25b618eb4293164ec10c0704f</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_Scale.cs</fileName>
+    <timeStamp>2020-11-09T02:45:58+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a2d78cf256b95243bb7494c55ab2efc</guid>
+    <fileName>Assets/I2/Text Animation/Scripts/Vertex Effects/Animation/SequenceTypes/SE_AnimSequence_UV.cs</fileName>
+    <timeStamp>2020-11-09T02:46:00+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
