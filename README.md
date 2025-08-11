@@ -42,21 +42,21 @@ It connects to the game via TCP/IP and uses the phone’s sensors for gesture-ba
 ## 📸 Screenshots
 
 ### App Main Interface
-![App Main Interface](images/vt+c0.jpg)
+<img src="images/vt+c0.jpg" alt="App Main Interface" width="500"/>
 
 ### Calibration Tutorial
-![Calibration Step 1](images/vt+c1.jpg)
-![Calibration Step 2](images/vt+c2.jpg)
-![Calibration Step 3](images/vt+c3.jpg)
+<img src="images/vt+c1.jpg" alt="Calibration Step 1" width="500"/>
+<img src="images/vt+c2.jpg" alt="Calibration Step 2" width="500"/>
+<img src="images/vt+c3.jpg" alt="Calibration Step 3" width="500"/>
 
 ### Menu Navigation
-![Control Buttons](images/vt+c4.jpg)
+<img src="images/vt+c4.jpg" alt="Control Buttons" width="500"/>
 
 ### Gameplay Controls
-![Swing Detection](images/vt+c5.jpg)
+<img src="images/vt+c5.jpg" alt="Swing Detection" width="500"/>
 
 ### Trophy Celebration & Effects
-![Victory Celebration 1](images/vt+c6.jpg)
-![Victory Celebration 2](images/vt+c7.jpg)
+<img src="images/vt+c6.jpg" alt="Victory Celebration 1" width="500"/>
+<img src="images/vt+c7.jpg" alt="Victory Celebration 2" width="500"/>
 
 ---
